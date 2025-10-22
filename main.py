@@ -21,7 +21,7 @@ def main():
         api_key=API_KEY,
         prompt=scene_prompt,
         image_path=None,
-        output_folder="videos/output"
+        output_folder = "videos/output"
     )
     
 if __name__ == "__main__":

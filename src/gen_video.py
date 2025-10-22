@@ -165,7 +165,7 @@ def download_with_curl(api_key, operation_name, output_folder="."):
             print(f'curl "{video_uri}" -H "x-goog-api-key: {api_key}" --output my_video.mp4')
             return None
 
-def create_video_complete(api_key, prompt, image_path=None, output_folder="."):
+def create_video_complete(api_key, prompt, image_path=None, output_folder = "."):
     """Quy trình hoàn chỉnh: Tạo → Poll → Tải"""
 
     # Bước 1: Gửi request
