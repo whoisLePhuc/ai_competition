@@ -1,0 +1,54 @@
+Tuyệt vời! Với vai trò là chuyên gia sản xuất nội dung video AI, tôi đã sẵn sàng thực hiện nhiệm vụ này. Dưới đây là 10 đoạn video ngắn được thiết kế cho công cụ Veo3, cùng với prompt cố định cho MC trên Image-gen4, để tạo nên một thước phim 80 giây đầy cảm xúc và hùng tráng về "Đất nước Việt Nam trong kỷ nguyên vươn mình".
+
+---
+**Prompt Image-gen4 (MC):** A confident and warm Vietnamese female news anchor in her 30s, wearing a modern yet elegant áo dài, standing in a minimalist high-tech studio with soft, diffused lighting, photorealistic, 8K.
+---
+
+**Đoạn 1:**
+- **Câu thoại MC:** Từ những trang sử hào hùng, Việt Nam hôm nay đang viết tiếp bản trường ca của khát vọng, vươn mình mạnh mẽ ra biển lớn.
+- **Prompt Veo3:** Cinematic 8-second aerial flycam shot, slowly gliding over the majestic limestone karsts of Ha Long Bay at sunrise. The golden light reflects on the tranquil water, with traditional junk boats dotting the scene. Ethereal, awe-inspiring, epic opening. 8K, hyperrealistic.
+
+---
+**Đoạn 2:**
+- **Câu thoại MC:** Những công trình thế kỷ đang thành hình, nối liền mọi miền Tổ quốc, tạo nên huyết mạch cho một nền kinh tế năng động và phát triển.
+- **Prompt Veo3:** Dynamic 8-second cinematic sequence. Starts with a drone shot flying alongside cars on a modern multi-lane expressway cutting through lush green mountains at sunset. Smoothly transitions to a close-up of a massive wind turbine blade rotating against a golden sky. Symbolizes progress and clean energy.
+
+---
+**Đoạn 3:**
+- **Câu thoại MC:** Công nghệ số không còn là khái niệm xa vời, mà đã len lỏi vào từng ngõ nhỏ, mang lại một cuộc sống tiện ích và văn minh hơn cho người dân.
+- **Prompt Veo3:** Heartwarming 8-second close-up shot. An elderly Vietnamese woman with a gentle smile sitting at a small street market, confidently using her smartphone to accept a QR code payment from a young customer. The scene is bathed in the warm, soft light of late afternoon. Shallow depth of field, focusing on her hands and face.
+
+---
+**Đoạn 4:**
+- **Câu thoại MC:** Chỉ với một chạm, mỗi công dân được kết nối an toàn và minh bạch với chính phủ số, mở ra một kỷ nguyên mới trong quản lý xã hội.
+- **Prompt Veo3:** Modern, sleek 8-second shot. A young professional man in an office setting uses his smartphone. The camera is over-the-shoulder, focusing on the phone screen displaying a generic, glowing blue biometric ID interface (VNeID-inspired, no text or logos). The background shows a modern city skyline at dusk through the window.
+
+---
+**Đoạn 5:**
+- **Câu thoại MC:** Bộ máy hành chính đang được tinh gọn, hoạt động hiệu quả hơn, với mục tiêu cao nhất là sự hài lòng và niềm tin của nhân dân.
+- **Prompt Veo3:** Clean, optimistic 8-second panning shot inside a modern, brightly-lit public service center. Citizens are being assisted efficiently by smiling staff at minimalist counters. The atmosphere is calm and professional, with sunlight streaming through large windows. Represents transparency and efficiency.
+
+---
+**Đoạn 6:**
+- **Câu thoại MC:** Thế hệ trẻ, những chủ nhân tương lai của đất nước, đang tự tin làm chủ tri thức và công nghệ, sẵn sàng cho hành trình hội nhập toàn cầu.
+- **Prompt Veo3:** Inspiring 8-second slow-motion shot. A diverse group of Vietnamese university students in a high-tech lab, collaborating around a complex robot arm. Their faces show intense focus and excitement. Natural light floods the room. Represents the future generation and innovation.
+
+---
+**Đoạn 7:**
+- **Câu thoại MC:** Và trong gian khó, thiên tai, tinh thần "tương thân tương ái" lại tỏa sáng rực rỡ, kết thành sức mạnh Việt Nam không gì lay chuyển nổi.
+- **Prompt Veo3:** Powerful, emotional 8-second cinematic shot. During a simulated flood aftermath (rainy, grey but with shafts of hopeful light), a soldier in uniform carefully carries an elderly woman through knee-deep water towards a rescue boat where other volunteers are helping. Focus on the act of human kindness and resilience. Gritty, realistic but hopeful tone.
+
+---
+**Đoạn 8:**
+- **Câu thoại MC:** Trên những cánh đồng trù phú, công nghệ cao đang vun trồng nên những mùa vàng bội thu, khẳng định vị thế và chất lượng của nông sản Việt.
+- **Prompt Veo3:** Cinematic 8-second aerial shot from above a vast, lush green rice paddy in the Mekong Delta during the golden hour. A sophisticated agricultural drone flies low, spraying a fine mist. The scene beautifully combines tradition and technology. Rich, vibrant colors.
+
+---
+**Đoạn 9:**
+- **Câu thoại MC:** Sức sáng tạo không ngừng nghỉ trong các viện nghiên cứu, các doanh nghiệp khởi nghiệp, chính là động lực cốt lõi cho sự phát triển bền vững.
+- **Prompt Veo3:** Energetic 8-second tracking shot inside a bustling, creative co-working space. A group of young entrepreneurs are passionately brainstorming around a whiteboard filled with diagrams and ideas. The camera moves around them, capturing their dynamic energy and collaborative spirit. Warm, ambient lighting.
+
+---
+**Đoạn 10:**
+- **Câu thoại MC:** Một Việt Nam kiên cường, đổi mới và hội nhập, đang tự tin sải những bước dài, vững chắc trên bản đồ thế giới.
+- **Prompt Veo3:** Epic 8-second final shot. A slow-motion, low-angle view of a large Vietnamese flag waving proudly atop a modern skyscraper in Ho Chi Minh City at sunset. The cityscape glows below. The feeling is triumphant, patriotic, and full of hope for the future. Cinematic, wide-angle lens.

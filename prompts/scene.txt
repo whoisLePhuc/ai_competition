@@ -1,0 +1,21 @@
+You are Veo3, an advanced AI cinematic video generator.
+
+Create a hyper-realistic 8-second cinematic video in 16:9 (1920x1080) resolution.
+No text, no subtitles, no watermark.
+
+Voiceover:
+Use a confident, warm Vietnamese female voice (~30 years old), similar to a professional Vietnamese TV news anchor.
+Maintain consistent tone, speed, and microphone quality throughout.
+Voice line (spoken naturally in Vietnamese):
+
+“Một Việt Nam kiên cường, đổi mới và hội nhập, đang tự tin sải những bước dài, vững chắc trên bản đồ thế giới.”
+
+Scene:
+Epic 8-second final shot: slow-motion, low-angle view of a large Vietnamese flag proudly waving atop a modern skyscraper in Ho Chi Minh City at sunset.
+Wide-angle composition shows a glowing cityscape below with recognizable Vietnamese urban character (density, riverside hints). The flag’s fabric and motion are emphasized, but avoid political symbols beyond the national flag; keep shot dignified and cinematic.
+
+Visual Style:
+Grand cinematic grading with warm sunset tones and deep shadows. Low-angle lens, slow-motion capture of flag movement, and soft volumetric light through atmospheric haze to create triumphant, hopeful mood.
+
+Output Goal:
+Produce one continuous, 8-second cinematic sequence with synchronized Vietnamese narration and a strong visual close to the campaign’s thematic climax.
